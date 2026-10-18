@@ -1,0 +1,24 @@
+{
+    "canvas": {
+        "background": "#4c3e3a",
+        "grid_color": "#676661",
+        "grid_spacing": 32,
+        "dot_size": 2.0
+    },
+    "note": {
+        "background": "#749835",
+        "border": "#436b20",
+        "border_width": 1.0,
+        "text_color": "#ffffff",
+        "border_radius": 12,
+        "selected_color": "#92b141",
+        "show_header": "true",
+        "header_height": 28,
+        "header_color": "#b3b354"
+    },
+    "edge": {
+        "color": "#4ca3c6",
+        "selected_color": "#0a84ff",
+        "width": 2.0
+    }
+}
